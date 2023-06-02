@@ -52,11 +52,12 @@ The following features will improve the pricing of the houses:
 
 # Recommendations
 G-One Limited therefore has the following recommendations for the family to guide their choice of a house in the King's County neighborhood:
-*They should consider the number of bathrooms
-*They should consider the number of floors
-*They should focus on houses graded as excellent, luxury, or mansion
-*They should focus on houses whose condition are either good or very good
-*Houses with a good view will attract a higher price compared to ones without
-*Houses with a waterfront have the highest price value
+*	They should consider the number of bathrooms
+*	They should consider the number of floors
+*	They should focus on houses graded as excellent, luxury, or mansion
+*	They should focus on houses whose condition are either good or very good
+*	Houses with a good view will attract a higher price compared to ones without
+*	Houses with a waterfront have the highest price value
+
 
 
